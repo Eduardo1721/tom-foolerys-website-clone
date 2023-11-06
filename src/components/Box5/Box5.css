@@ -1,0 +1,13 @@
+.containterr{
+    height: 500px;
+    background-color: rgba(151, 18, 18, 1);
+}
+.pngg{
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 70px;
+}
+.containterr button{
+    margin-bottom: 200px;
+    width: 200px;
+}

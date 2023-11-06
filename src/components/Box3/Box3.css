@@ -1,0 +1,23 @@
+.box3{
+    height: 500px;
+    background-color: black;
+}
+.img1{
+    width: 600px;
+    float:left;
+    margin-top: 70px;
+    padding: 25px;
+}
+.text3{
+    color: white;
+    padding-top: 95px;
+    padding-left: 50px;
+}
+.box3 h1{
+    text-align: justify;
+    color: rgba(151, 18, 18, 1);
+}
+.box3 h5{
+    text-align:left;
+    padding-right: 70px;
+}

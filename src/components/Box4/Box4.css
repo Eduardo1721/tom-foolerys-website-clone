@@ -1,0 +1,15 @@
+
+.lineImgs{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+    gap: 50px;
+}
+.lineImgs img{
+    width: 230px;
+}
+.lineImgs img:hover{
+    transform: scale(1.08);
+    
+}
